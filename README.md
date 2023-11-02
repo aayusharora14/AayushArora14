@@ -18,14 +18,13 @@
 
 ## 🌟 About Me
 - 🎓 Bachelor of Engineering in Computer Science from Manipal University Jaipur.
-  
-- 🌐 Explorer of the ever-evolving digital landscape, one line of code at a time.
 
 🌱 I'm always learning and improving my coding skills. The tech world never stops, and I'm on a never-ending journey to stay up-to-date.
 
 👯 I'm looking to collaborate on exciting open-source projects. If you have a cool idea, let's bring it to life together!
 
 💬 Ask me about anything related to coding, web development, or the latest tech trends. I'm always up for a good tech chat.
+
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/aayusharora14/). Let's connect and chat about all things tech!
 
 😄 Pronouns: He/Him
