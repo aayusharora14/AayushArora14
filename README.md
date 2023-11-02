@@ -30,38 +30,38 @@
 😄 Pronouns: He/Him
 
 ## 💻 Tech Stash
-Languages:
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50" height="50"/> 
-<img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/sql.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" width="50" height="50"/>
+**Languages:**
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="45" height="45"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" width="45" height="45"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="45" height="45"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" width="45" height="45"/>
 
-Frameworks:
-<img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" width="50" height="50"/>
+**Frameworks:**
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/>
 
-Tools of the Trade:
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" width="50" height="50"/> 
-<img src="https://img.icons8.com/color/48/000000/eclipse.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/android-studio.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft.png" width="50" height="50"/>
-<img src="https://img.icons8.com/fluency/48/000000/github.png" width="50" height="50"/>
+**Tools of the Trade:**
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" width="45" height="45"/> 
+<img src="https://img.icons8.com/color/48/000000/eclipse.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio.png" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft.png" width="45" height="45"/>
+<img src="https://img.icons8.com/fluency/48/000000/github.png" width="45" height="45"/>
 
 
-Magic Spells:
- Data Structures and Algorithms,
+**Magic Spells:**
+ **Data Structures and Algorithms,
  Design and Analysis of Algorithms,
  Computer Network,
- RDBMS
+ RDBMS**
 
 
 ## 🏗️ Latest Creations
 
-- ### FullStack YouTube Clone 🎥 | September 2023
+ ### FullStack YouTube Clone 🎥 | September 2023
 - 📺 Bringing YouTube vibes with React, Node, and MongoDB.
 - 📡 Hosted in the clouds, accessible worldwide [here](https://youtubeclonebyaayusharora.netlify.app).
 - 🧙‍♂️ Crafting magic with features like video uploads, watch history, and dynamic search bars.
