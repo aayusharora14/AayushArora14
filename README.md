@@ -19,7 +19,7 @@
 ## 🌟 About Me
 - 🎓 **Bachelor of Engineering in Computer Science from Manipal University Jaipur**.
 
-🌱 I'm always learning and improving my coding skills. The tech world never stops & I'm on a never-ending journey to stay up-to-date.
+🌱 I'm always learning & improving my coding skills. The tech world never stops & I'm on a never-ending journey to stay up-to-date.
 
 👯 I'm looking to collaborate on exciting open-source projects. If you have a cool idea, let's bring it to life together!
 
