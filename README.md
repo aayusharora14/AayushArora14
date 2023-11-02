@@ -4,7 +4,6 @@
 
 
 ![Coding in Progress](https://img.shields.io/badge/Coding-in%20Progress-blueviolet)
-![Current Location](https://img.shields.io/badge/Current%20Location-Exploring%20Code-yellow)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F)](https://www.instagram.com/arora__aayush)
@@ -32,10 +31,34 @@
 😄 Pronouns: He/Him
 
 ## 💻 Tech Stash
-- **Languages:** C, Python, Java, HTML/CSS, JavaScript, SQL, PHP
-- **Frameworks:** React.js, CSS: Tailwind/Bootstrap
-- **Tools of the Trade:** VS Code, PyCharm, Eclipse, Android Studio, Microsoft 365, GitHub
-- **Magic Spells:** Data Structures and Algorithms, Design and Analysis of Algorithms, Computer Network, OS, RDBMS
+Languages:
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" width="50" height="50"/>
+
+Frameworks:
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" width="50" height="50"/>
+
+Tools of the Trade:
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" width="50" height="50"/> 
+<img src="https://img.icons8.com/color/48/000000/eclipse.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft.png" width="50" height="50"/>
+<img src="https://img.icons8.com/fluency/48/000000/github.png" width="50" height="50"/>
+
+
+Magic Spells:
+ Data Structures and Algorithms,
+ Design and Analysis of Algorithms,
+ Computer Network,
+ RDBMS
+
 
 ## 🏗️ Latest Creations
 
