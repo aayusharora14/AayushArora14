@@ -38,8 +38,6 @@
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45" height="45"/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="45" height="45"/>
 <img src="https://img.icons8.com/color/48/000000/php.png" width="45" height="45"/>
-
-**Frameworks:**
 <img src="https://img.icons8.com/color/48/000000/react-native.png" width="45" height="45"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/>
 
