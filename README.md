@@ -14,7 +14,7 @@
 👋 Hi, I'm Aayush Arora, I've got a passion for coding and a penchant for turning ideas into reality. Here's what you can find in my digital playground:
 ## Currently Working On
 
-- 🔭 I'm currently working on a revolutionary project called **InvestoHub**, where I'm making investing in Property, Gold, and Bitcoin more accessible and fun! I'm also adding a real-time news service to keep you informed.
+- 🔭 I'm currently working on a exceptional project called **InvestoHub**, where I'm making investing in Property, Gold, and Bitcoin more accessible and fun! I'm also adding a real-time news service to keep you informed.
 
 ## 🌟 About Me
 - 🎓 **Bachelor of Engineering in Computer Science from Manipal University Jaipur**.
