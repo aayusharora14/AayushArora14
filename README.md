@@ -65,7 +65,7 @@
 - 🧙‍♂️ Crafting magic with features like video uploads, watch history, and dynamic search bars.
 - 🤖 Sign in with your Google wand and dive into the world of videos.
 
-### CarCare 🚗 | Ongoing
+### CarCare 🚗 | June 2023
 - 🚘 Merging e-commerce and emergency services.
 - 🆘 Don't just shop for cars; keep them in top shape too.
 - 🔧 Revolutionizing the automotive industry with a twist.
