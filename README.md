@@ -1,11 +1,9 @@
+<div align="center">
+  <img src="git_banner.gif" style="width: 100%; max-width: 750px; height: auto;">
+</div>
+
 🚀 Hey there, Welcome to My Journey! 👨‍💻
 
----
-
-👋 Hi, I'm Aayush Arora! I have a passion for coding and a penchant for turning ideas into reality. Welcome to my digital playground where you can learn more about my journey and projects.
-
-## 🚀 Currently Working On
-- 🔭 **InvestoHub**: An exceptional project making investing in Property, Gold, and Bitcoin more accessible and fun! Adding a real-time news service to keep you informed.
 
 ## 🌟 About Me
 - 🎓 **Bachelor of Engineering in Computer Science** from Manipal University Jaipur.
@@ -15,6 +13,8 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aayusharora14/). Let's chat about all things tech!
 - 😄 Pronouns: He/Him
 
+## 🚀 Currently Working On
+- 🔭 **InvestoHub**: An exceptional project making investing in Property, Gold, and Bitcoin more accessible and fun! Adding a real-time news service to keep you informed.
 ## 💻 Tech Stash
 
 ### **Languages:**
@@ -23,11 +23,12 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" width="45" height="45"/> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="45" height="45"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/>
+  
 </p>
 
 ### **Tools of the Trade:**
@@ -52,7 +53,7 @@
   <a href="https://www.linkedin.com/in/aayusharora14/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href ="https://aayush-arora-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-%2304AA6D?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:aayusharora2510@gmail.com">
