@@ -11,12 +11,12 @@
 - 👯 Looking to collaborate on exciting open-source projects. Have a cool idea? Let's bring it to life together!
 - 💬 Ask me anything about coding, web development, or the latest tech trends. I'm always up for a good tech chat.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aayusharora14/). Let's chat about all things tech!
-- 😄 Pronouns: He/Him
 
 ## 🚀 Currently Working On
 - 🔭 **InvestoHub**: An exceptional project making investing in Property, Gold, and Bitcoin more accessible and fun! Adding a real-time news service to keep you informed.
-## 💻 Tech Stash
 
+
+## 💻 Tech Stash
 ### **Languages:**
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="45" height="45"/> 
@@ -28,7 +28,6 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/php.png" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="45" height="45"/>
-  
 </p>
 
 ### **Tools of the Trade:**
@@ -41,11 +40,10 @@
   <img src="https://img.icons8.com/fluency/48/000000/github.png" width="45" height="45"/>
 </p>
 
-### **Magic Spells:**
-- **Data Structures and Algorithms**
-- **Design and Analysis of Algorithms**
-- **Computer Network**
-- **RDBMS**
+Magic Spells:- **Data Structures** , **Design and Analysis of Algorithms**, **Computer Network**, **RDBMS**, **OS**
+
+
+
 
 ---
 
