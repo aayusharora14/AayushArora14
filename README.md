@@ -1,20 +1,4 @@
-
-
 🚀 Hey there, Welcome to My Journey! 👨‍💻
-
-![Coding in Progress](https://img.shields.io/badge/Coding-in%20Progress-blueviolet)
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aayusharora14/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/arora__aayush">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:aayusharora2510@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
 
 ---
 
@@ -63,6 +47,18 @@
 - **RDBMS**
 
 ---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aayusharora14/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-%2304AA6D?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:aayusharora2510@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-%230078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 Feel free to explore my projects, connect with me on social media, and reach out if you want to collaborate or just chat about tech!
 
